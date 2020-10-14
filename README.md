@@ -1,5 +1,5 @@
 
-# react-native-qrcode
+# react-native-qr-code
 A react-native component to generate [QRcode](http://en.wikipedia.org/wiki/QR_code), not only support English.
 
 ## Installation
