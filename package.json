@@ -1,5 +1,5 @@
 {
-  "name": "react-native-qrcode",
+  "name": "react-native-qr-code",
   "version": "0.2.8",
   "description": "react-native qrocode generator",
   "main": "index.js",
